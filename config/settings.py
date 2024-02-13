@@ -141,7 +141,7 @@ REST_FRAMEWORK = {
 }
 
 SPECTACULAR_SETTINGS = {
-    'TITLE': 'Panjereh',    'DESCRIPTION': 'Django Custom User Auth',
+    'TITLE': 'Project Name',    'DESCRIPTION': 'Django Custom User Auth',
     'VERSION': '1.0.0',
     'SERVE_INCLUDE_SCHEMA': False,
     # OTHER SETTINGS
