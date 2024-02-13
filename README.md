@@ -1,6 +1,6 @@
 # Django Custom User with JWT
 
-Simple Django custom user with JWt as the authentication method.
+Simple Django custom user with JWT as the authentication method.
 
 ## Setup
 
